@@ -1,1 +1,1 @@
-ab
+import random
